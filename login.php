@@ -1,4 +1,5 @@
 <?php
+echo "it works";
 $dbusername = "root";
 $dbpassword = "gg.pass1.phpassass1n.";
 $dbhostname = "localhost";
